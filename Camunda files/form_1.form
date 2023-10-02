@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "label": "Vorname",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_14zrq0a",
+        "columns": null
+      },
+      "id": "Field_0fjoxlf",
+      "key": "field_1rt06qs",
+      "description": "name"
+    },
+    {
+      "label": "Alter",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_1jyjtl8",
+        "columns": null
+      },
+      "id": "Field_14luszo",
+      "key": "field_162itol",
+      "description": "age"
+    }
+  ],
+  "type": "default",
+  "id": "XORForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.14.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}
